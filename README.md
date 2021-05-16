@@ -20,5 +20,7 @@ Credit card fraud detection is a set of activities that are taken to prevent mon
    2)	Decision tree
    3)	Random forest
 # Built With:
-
+1) Anaconda Environment
+2) Jupyter Notebook
+3) Python libraries
 
